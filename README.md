@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tamanegi-mogumogu
-- 🌱 I’m junior-high-school-student
-- Telegram 📧: [@tqmane](https://t.me/tqmane)
-- Specs💻: Xeon Sliver 24core/48threads Mem 64Gb/ Storage 500~4000Gb/ Os ZorinOS 16.2 PRO
+
 <div>
   <a href="https://github.com/tamanegi-mougmogu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamanegi-mogumogu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
