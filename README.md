@@ -1,18 +1,17 @@
 - 👋 Hi, I’m @tamanegi-mogumogu
 
-<div>
-  <a href="https://github.com/tamanegi-mougmogu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamanegi-mogumogu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanegi-mogumogu&layout=compact&langs_count=7&theme=dark"/>
+<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
+<div> 
+<p align = "center">
+  <a href="https://github.com/tamanegi-mogumogu"><img alt="tamanegi-mogumogu's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tamanegi-mogumogu&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
+  <a href="https://github.com/tamanegi-mogumogu"><img alt="tamanegi-mogumogu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tamanegi-mogumogu&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/tamanegi-mogumogu"><img alt="tamanegi-mogumogu's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tamanegi-mogumogu&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+</p>
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<div>
+<br>
 
+<h2 align="center"> My contributions game 🐍🎮</h2>
 
- ![Snake animation](https://github.com/Sasukezin678/Sasukezin678/blob/output/github-contribution-grid-snake.svg)
-</div>
+![](https://raw.githubusercontent.com/tamanegi-mogumogu/tamanegi-mogumogu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tamanegi-mogumogu/tamanegi-mogumogu/output/github-contribution-grid-snake.svggh-light-mode-only)
+<br>
