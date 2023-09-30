@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<h2 align="center"> My contributions game 🐍🎮</h2>
+<h2 align="center"> My contributions snake 🐍🎮</h2>
 
 ![](https://raw.githubusercontent.com/tamanegi-mogumogu/tamanegi-mogumogu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tamanegi-mogumogu/tamanegi-mogumogu/output/github-contribution-grid-snake.svggh-light-mode-only)
