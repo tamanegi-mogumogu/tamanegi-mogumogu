@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @tamanegi-mogumogu
+- 🇯🇵 I'm Japanese
 
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
